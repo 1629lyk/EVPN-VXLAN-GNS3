@@ -30,7 +30,7 @@ The project targets three job tracks simultaneously:
 
 ## Node Inventory
 
-![Topology](./Topology.png)
+![Topology](./evpn-vxlan-lab/Topology.png)
 
 | Node | Type | Role | AS | Loopback |
 |---|---|---|---|---|
